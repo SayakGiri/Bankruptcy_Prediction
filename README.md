@@ -71,6 +71,12 @@ The data was obtained from UCI Machine Learning Repository: https://archive.ics.
 
 ##### Selecting important features from the set of remaining set of features using RFECV.
 
+### Discussion Notes:
+
+##### Getting to know the features.
+
+##### Studying the importance of each feature on the response variable.
+
 ### Questions to be asked:
 
 ##### 1. Data Balancing using SMOTE and Near Miss
