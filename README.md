@@ -65,20 +65,13 @@ The data was obtained from UCI Machine Learning Repository: https://archive.ics.
 
 ### Statistical Techniques:
 
-##### Normalisation of data using Central Limit Theorem (CLT) to compute Point Biserial Correlation Coefficients to study the level of association between the predictors and the target variable. 
+##### Normalisation of data.
 
-##### Dropping columns(features) with high multicollinearity.
-
-##### Selecting important features from the set of remaining set of features using RFECV.
-
-### Discussion Notes:
-
-##### Getting to know the features.
-
-##### Studying the importance of each feature on the response variable.
+#### Density plot and box plots for each of the predictors corresponding to each value of the target variable (0,1). 
 
 ### Questions to be asked:
 
-##### 1. Data Balancing using SMOTE and Near Miss
+#### Interpretation of the plots?
 
-##### 2. Feature selection from the remaining features after RFECV. 
+
+
