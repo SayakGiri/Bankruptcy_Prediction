@@ -62,16 +62,25 @@ The data was obtained from UCI Machine Learning Repository: https://archive.ics.
 
 ##### 18. Continuous interest rate after tax: Compound interest is interest calculated on the initial principal and also on the accumulated interest of previous periods of a deposit or loan. The effect of compound interest depends on frequency. Continuously compounded returns compound the most frequently of all. Continuous compounding is the mathematical limit that compound interest can reach.
 
-
+### Meeting 3
 ### Statistical Techniques:
 
 ##### Normalisation of data.
 
-#### Density plot and box plots for each of the predictors corresponding to each value of the target variable (0,1). 
+#### Density plot and box plots for each of the predictors corresponding to each value of the target variable (0,1).
 
 ### Questions to be asked:
 
 #### Interpretation of the plots?
+
+### Meeting 4
+### Statistical Techniques
+
+#### Feature selection using the density plots, data balancing (SMOTE and Near Miss), creating a pipeline to fit models, model evaluation (performance metrics).
+
+### Questions to be asked:
+
+#### Further Steps?
 
 
 
