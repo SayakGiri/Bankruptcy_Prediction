@@ -76,11 +76,11 @@ The data was obtained from UCI Machine Learning Repository: https://archive.ics.
 ### Meeting 4
 ### Statistical Techniques
 
-#### Feature selection using the density plots, data balancing (SMOTE and Near Miss), creating a pipeline to fit models, model evaluation (performance metrics).
+#### Feature selection using the density plots, data balancing (SMOTE and Near Mis, fitting of models, model evaluation (performance metrics).
 
 ### Questions to be asked:
 
-#### Further Steps?
+#### Hyperparameter tuning, further feature selection, any more models?
 
 
 
